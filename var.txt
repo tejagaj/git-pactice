@@ -1,1 +1,4 @@
-name : teja
+name  : teja
+age   : 30
+empid : 99
+email : tejaswigajula@gmail.com
